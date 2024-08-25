@@ -33,6 +33,39 @@ Before setting up the project, make sure you have the following:
 The user can signup or login into their account to access their portfolio.
 ![1](https://github.com/user-attachments/assets/a77115fe-9939-418b-834d-90a0685c391c)
 
+![2](https://github.com/user-attachments/assets/09175bb4-50b4-48fd-96aa-dd473dfd96ae)
+
+## Dashboard
+
+![3](https://github.com/user-attachments/assets/c2a69815-30b7-49cf-909c-fadc7593dd2b)
+
+## Portfolio Creation
+
+![4](https://github.com/user-attachments/assets/18270984-6827-4069-bac0-6dbb7dfbb0ef)
+
+## Portfolio Dashboard
+
+![6](https://github.com/user-attachments/assets/3a7cf4c2-fbeb-43fb-b83e-606c15727617)
+
+## Time line for stock prediction
+
+![7](https://github.com/user-attachments/assets/8ed19876-9966-4d7f-b703-1215ca7e6f77)
+
+Predictions
+![8](https://github.com/user-attachments/assets/7ca52ab5-fbe5-4389-ac29-c654806d6253)
+
+## Upgrade to premium 
+
+![9](https://github.com/user-attachments/assets/83595499-1bf1-40c7-936c-75fee9ae6cbf)
+![10](https://github.com/user-attachments/assets/60425354-8d4f-4493-bfe7-32b41beddf1b)
+
+
+
+
+
+
+
+
 
 
 
