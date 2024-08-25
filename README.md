@@ -60,6 +60,25 @@ Predictions
 ![10](https://github.com/user-attachments/assets/60425354-8d4f-4493-bfe7-32b41beddf1b)
 
 
+## Integrating ChatBot to make the application more interactive
+
+<img width="414" alt="Screenshot 2024-08-25 at 10 11 57 PM" src="https://github.com/user-attachments/assets/69167fcb-e604-480d-8efb-3d576e275d7c">
+
+Asking the chatbot question realted to the graph.
+
+<img width="925" alt="Screenshot 2024-08-25 at 10 12 56 PM" src="https://github.com/user-attachments/assets/1d913e19-9f4f-4bd2-af0a-34a0021205a5">
+
+The ChatBot would make the analysis and sugggest the user and assist them with their query.
+
+<img width="784" alt="Screenshot 2024-08-25 at 10 14 07 PM" src="https://github.com/user-attachments/assets/840131d2-6c68-4d2c-b573-6a4b19e05a0c">
+
+
+
+
+
+
+
+
 
 
 
