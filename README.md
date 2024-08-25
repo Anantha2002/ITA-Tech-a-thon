@@ -29,3 +29,4 @@ Before setting up the project, make sure you have the following:
 3. ```bash
    python main.py
 
+
