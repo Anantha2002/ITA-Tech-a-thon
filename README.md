@@ -28,5 +28,11 @@ Before setting up the project, make sure you have the following:
      pip install -r requirements.txt
 3. ```bash
    python main.py
+## Login/Signup page
+
+The user can signup or login into their account to access their portfolio.
+![1](https://github.com/user-attachments/assets/a77115fe-9939-418b-834d-90a0685c391c)
+
+
 
 
