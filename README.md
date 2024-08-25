@@ -22,5 +22,6 @@ Before setting up the project, make sure you have the following:
    git clone https://github.com/yourusername/stock-value-prediction.git
    cd stock-value-prediction
 2. **Install dependencies**
+     ```bash
      pip install -r requirements.txt
 
